@@ -1,0 +1,6 @@
+chat
+chien
+chat
+oiseau
+chien
+chat
